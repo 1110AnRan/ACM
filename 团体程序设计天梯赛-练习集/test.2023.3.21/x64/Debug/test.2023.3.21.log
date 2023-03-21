@@ -1,0 +1,4 @@
+﻿  test.cpp
+D:\VS_C_Code\ACM\团体程序设计天梯赛-练习集\test.2023.3.21\test.cpp(172,12): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\VS_C_Code\ACM\团体程序设计天梯赛-练习集\test.2023.3.21\test.cpp(177,14): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  test.2023.3.21.vcxproj -> D:\VS_C_Code\ACM\团体程序设计天梯赛-练习集\test.2023.3.21\x64\Debug\test.2023.3.21.exe
