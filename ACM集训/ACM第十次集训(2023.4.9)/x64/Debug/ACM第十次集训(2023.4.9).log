@@ -1,0 +1,4 @@
+﻿  test.cpp
+D:\VS_Code\ACM\ACM集训\ACM第十次集训(2023.4.9)\test.cpp(182,2): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\VS_Code\ACM\ACM集训\ACM第十次集训(2023.4.9)\test.cpp(184,26): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+  ACM第十次集训(2023.4.9).vcxproj -> D:\VS_Code\ACM\ACM集训\ACM第十次集训(2023.4.9)\x64\Debug\ACM第十次集训(2023.4.9).exe
