@@ -1,0 +1,3 @@
+﻿  Test.cpp
+D:\VS_Code\ACM\ACM集训\ACM第二十二次集训(2023.5.21)\Test.cpp(17,27): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  ACM第二十二次集训(2023.5.21).vcxproj -> D:\VS_Code\ACM\ACM集训\ACM第二十二次集训(2023.5.21)\x64\Debug\ACM第二十二次集训(2023.5.21).exe
