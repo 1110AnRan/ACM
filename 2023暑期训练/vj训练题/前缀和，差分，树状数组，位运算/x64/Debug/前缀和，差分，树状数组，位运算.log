@@ -1,0 +1,8 @@
+﻿  test.cpp
+D:\VS_Code\ACM\2023年暑期训练算法基础题\vj训练题\前缀和，差分，树状数组，位运算\test.cpp(182,6): error C2440: “=”: 无法从“int [5][5]”转换为“int (*)[4]”
+D:\VS_Code\ACM\2023年暑期训练算法基础题\vj训练题\前缀和，差分，树状数组，位运算\test.cpp(182,6): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+D:\VS_Code\ACM\2023年暑期训练算法基础题\vj训练题\前缀和，差分，树状数组，位运算\test.cpp(183,9): warning C4477: “printf”: 格式字符串“%p”需要类型“void *”的参数，但可变参数 1 拥有了类型“__int64”
+D:\VS_Code\ACM\2023年暑期训练算法基础题\vj训练题\前缀和，差分，树状数组，位运算\test.cpp(183,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 2 拥有了类型“__int64”
+D:\VS_Code\ACM\2023年暑期训练算法基础题\vj训练题\前缀和，差分，树状数组，位运算\test.cpp(183,9): message : 请考虑在格式字符串中使用“%lld”
+D:\VS_Code\ACM\2023年暑期训练算法基础题\vj训练题\前缀和，差分，树状数组，位运算\test.cpp(183,9): message : 请考虑在格式字符串中使用“%Id”
+D:\VS_Code\ACM\2023年暑期训练算法基础题\vj训练题\前缀和，差分，树状数组，位运算\test.cpp(183,9): message : 请考虑在格式字符串中使用“%I64d”
