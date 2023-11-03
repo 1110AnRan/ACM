@@ -1,0 +1,14 @@
+﻿  test.cpp
+D:\Program Files (x86)\Visual Studio 2022\VC\Tools\MSVC\14.37.32822\include\utility(242,54): warning C4267: “初始化”: 从“size_t”转换到“_Ty2”，可能丢失数据
+          with
+          [
+              _Ty2=int
+          ]
+D:\VS_Code\ACM\ACM集训\ACM第三十五次集训(2023.10.26)\test.cpp(212,16): message : 查看对正在编译的函数 模板 实例化“std::pair<int,int>::pair<int&,unsigned __int64,0>(_Other1,_Other2 &&) noexcept”的引用
+          with
+          [
+              _Other1=int &,
+              _Other2=unsigned __int64
+          ]
+D:\VS_Code\ACM\ACM集训\ACM第三十五次集训(2023.10.26)\test.cpp(212,15): message : 请参阅 "Solution::decodeString" 中对 "std::pair<int,int>::pair" 的第一个引用
+  ACM第三十五次集训(2023.10.26).vcxproj -> D:\VS_Code\ACM\ACM集训\ACM第三十五次集训(2023.10.26)\x64\Debug\ACM第三十五次集训(2023.10.26).exe
